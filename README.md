@@ -26,6 +26,6 @@ F Group
 
 - Ari Sahlan
 
--Trisya Balqis
+- Trisya Balqis
 
 - Raja Syauqi
